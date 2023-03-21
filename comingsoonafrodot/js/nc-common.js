@@ -186,7 +186,7 @@ nc.countdown = function (obj) {
 	countdownHtml += '	<div class="dash hours_dash">';
 	countdownHtml += '	 <div class="inner-dash">';
 	countdownHtml += '	 <div class="digit">1</div>';
-	countdownHtml += '	 <div class="digit">02</div>';
+	countdownHtml += '	 <div class="digit">2</div>';
 	countdownHtml += '	 </div>';
 	countdownHtml += '	 <span class="dash_title">hours</span>';
 	countdownHtml += '	</div>';
